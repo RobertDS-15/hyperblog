@@ -1,5 +1,6 @@
 Esta es la historia de Robert Cortes
 
-Robert Cortés tiene 29 años, nacido en Bogotá Colombia
+Robert Cortés tiene 30 años, nacido en Bogotá Colombia
+Vivie en Usaquen
 
 Hoy haré mi primer practica de Git
