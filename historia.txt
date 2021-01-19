@@ -5,4 +5,4 @@ Vivie en Usaquen
 
 Hoy haré mi primer practica de Git
 
-En camara parece alto pero no es tan bajo.
+En camara parece alto pero no es tan bajo, En fin asi es.
